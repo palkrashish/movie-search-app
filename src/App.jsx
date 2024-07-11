@@ -2,6 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./components/Home/Home";
 import SingleMovie from "./components/SingleMovie/SingleMovie";
 import Error from "./Error";
+import './App.css'
 const App = () => {
   return (
     <Routes>
