@@ -33,3 +33,7 @@
 - after that run the program "npm run dev"
 
 ## Note:- due to time constraint unable to write test.file and page 20
+
+## API .
+- https://omdbapi.com/ 
+- my env open for use to check
