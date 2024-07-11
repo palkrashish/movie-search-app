@@ -24,3 +24,10 @@
 - Fetch movie data from a public API (e.g., The Movie Database API).
 - Write unit tests for critical components and functions.
 - Provide clear instructions on how to run the application.
+
+## How to Run this App
+- you should clone this project using git command or Source tree
+- go to project folder and run "npm i"
+
+- after that need to installed "npm i react-router-dom"
+- after that run the program "npm run dev"
