@@ -2,7 +2,7 @@
 
 ## 1. Movie List:
 - Display a list of movies with their titles, posters, and release years.
-- Implement pagination to load movies in chunks of 20 per page.
+- Implement pagination to load movies in chunks of 20 per page. (pending...)
 - Optimize the performance by lazy-loading images.
 ## 2. Movie Search:
 - Add a search bar that allows users to search for movies by title.
