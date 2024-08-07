@@ -3,7 +3,7 @@ import useFetch from "./useFetch";
 const AppContext = React.createContext("");
 
 const AppProvider = ({ children }) => {
-  const [query, setQuery] = useState("titanic");
+  const [query, setQuery] = useState("Dil se");
   const {isLoading, isError, movie} = useFetch(`&s=${query}`);
 
   return (
